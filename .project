@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/ex02/data2.txt</name>
+			<type>1</type>
+			<location>D:/yang/수업용/data2.txt</location>
+		</link>
+		<link>
+			<name>src/ex02/data3.txt</name>
+			<type>1</type>
+			<location>D:/yang/수업용/data3.txt</location>
+		</link>
+	</linkedResources>
 </projectDescription>
